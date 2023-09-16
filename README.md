@@ -2,7 +2,7 @@ Welcome to my GitHub page. Since I need to keep order, I'm using GitHub
 to collaborate with projects or send issues to them. My public projects
 are on GitLab. That's where the following links point to.
 
-* [Einstein's riddle in Z3](https://gitlab.com/llsant/einsteins-riddle): A solution for Einstein's riddle using the Z3 logic solver. 
+* [Einstein's riddle in Z3](https://gitlab.com/llsant/einsteins-riddle): A solution to Einstein's riddle using the Z3 logic solver. 
 
 * [UEFI Flappy Bird Mirror](https://gitlab.com/llsant/flappy-bird-uefi-backup): A mirror of a bare-metal UEFI game that
 works like Flappy Bird, along with some convenience virtual machine files.
