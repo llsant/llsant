@@ -1,7 +1,6 @@
 Welcome to my GitHub page. Since I need to keep order, I'm using GitHub
-to collaborate with or send issues to other projects, both public and
-private, and I host my own public projects at GitLab. That's where
-the following links point to.
+to collaborate with projects or send issues to them. My public projects
+are on GitLab. That's where the following links point to.
 
 * [Einstein's riddle in Z3](https://gitlab.com/llsant/einsteins-riddle): A solution for Einstein's riddle using the Z3 logic solver. 
 
