@@ -4,7 +4,9 @@ are on GitLab. That's where the following links point to.
 
 * [Discord bot](https://gitlab.com/llsant/discord_bot): A Discord bot in Python that I develop and host for entertainment purposes.
 
-* [Einstein's riddle in Z3](https://gitlab.com/llsant/einsteins-riddle): A solution for Einstein's riddle using the Z3 logic solver. 
+* [Einstein's riddle in Z3](https://gitlab.com/llsant/einsteins-riddle): A solution for Einstein's riddle using the Z3 logic solver.
+
+* [RAM Blocker](https://gitlab.com/llsant/ram-blocker): Simple UEFI driver that blocks memory pages on faulty machines.
 
 * [UEFI Flappy Bird Mirror](https://gitlab.com/llsant/flappy-bird-uefi-backup): A mirror of a bare-metal UEFI game that
 works like Flappy Bird, along with some convenience virtual machine files.
