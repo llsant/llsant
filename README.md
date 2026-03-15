@@ -8,6 +8,8 @@ are on GitLab. That's where the following links point to.
 
 * [RAM Blocker](https://gitlab.com/llsant/ram-blocker): Simple UEFI driver that blocks memory pages on faulty machines.
 
+* [Godav](https://gitlab.com/llsant/godav): WebDAV + HTTPs + authentication server in Golang.
+
 * [UEFI Flappy Bird Mirror](https://gitlab.com/llsant/flappy-bird-uefi-backup): A mirror of a bare-metal UEFI game that
 works like Flappy Bird, along with some convenience virtual machine files.
 
