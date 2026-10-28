@@ -6,6 +6,8 @@ are on GitLab. That's where the following links point to.
 
 * [Einstein's riddle in Z3](https://gitlab.com/llsant/einsteins-riddle): A solution for Einstein's riddle using the Z3 logic solver.
 
+* [Computer tutorials](https://gitlab.com/llsant/tutorials): A collection of practical tasks with computers and software that I've documented from by own experience.
+
 * [RAM Blocker](https://gitlab.com/llsant/ram-blocker): Simple UEFI driver that blocks memory pages on faulty machines.
 
 * [Godav](https://gitlab.com/llsant/godav): WebDAV + HTTPs + authentication server in Golang.
